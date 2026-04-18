@@ -1,1 +1,1 @@
-# etsy-seller-tools
+# seller-tools
